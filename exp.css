@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(151, 199, 248);
+    font-size: large;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.Links2{
+    position: relative;
+    display: block;
+    color: white;
+    background-color: black;
+    top: -250px;
+    left:0px;
+    text-decoration:none;   
+    float: left;
+    padding: 10px 90px;
+    font-size: 20px;
+    border-radius: 42px;
+    transform:rotate(4);
+}
+.exp{
+    position: relative;
+    top:-120px;
+    left:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:normal;
+    font-weight: 650;
+    font-size: 20px;
+}
+.ferycrazy{
+    position: relative;
+    top: 260px;
+    left: 105px;
+    width: 155.54px;
+    height: 155.17px;    
+    border-radius: 76.7142px;
+    transform: rotate(-0.44deg);
+}
+.contenedor{
+    position: relative;
+    background-color: rgb(22, 154, 240 );
+    top:-180px ;
+    padding-left: 850px;
+    font-size: 30px;
+}
+.experencia{
+    position: relative;
+    left:-80px ;
+
+}
+.h3E{
+   position: relative;
+   left: -65px;
+}
